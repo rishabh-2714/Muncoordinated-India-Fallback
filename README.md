@@ -1,3 +1,5 @@
+# IMPORTANT: This fork uses the Indian flag rather than the Federated States of Micronesia flag as a fallback for custom names. For the main repository, go to the main branch.
+
 # Muncoordinated
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/620aebdc-0c8d-4ef6-873d-cfcd154f8269/deploy-status)](https://app.netlify.com/sites/muncoordinated/deploys)
