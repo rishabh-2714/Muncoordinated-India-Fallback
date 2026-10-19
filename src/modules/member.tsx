@@ -88,7 +88,7 @@ export function nameToFlagCode(name: string): FlagNames {
   }
 
   // Federated States of Micronesia looks kinda like the UN flag?
-  return 'fm';
+  return 'in';
 }
 
 export function membersToOptions(members: Record<MemberID, MemberData> | undefined): MemberOption[] {
